@@ -1,7 +1,7 @@
-package com.javatechie.crud.service;
+package com.sriniit.crud.service;
 
-import com.javatechie.crud.entity.Order;
-import com.javatechie.crud.repository.OrderRepository;
+import com.sriniit.crud.entity.Order;
+import com.sriniit.crud.repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

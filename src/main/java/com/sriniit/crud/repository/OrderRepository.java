@@ -1,6 +1,6 @@
-package com.javatechie.crud.repository;
+package com.sriniit.crud.repository;
 
-import com.javatechie.crud.entity.Order;
+import com.sriniit.crud.entity.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface OrderRepository extends JpaRepository<Order, Integer> {

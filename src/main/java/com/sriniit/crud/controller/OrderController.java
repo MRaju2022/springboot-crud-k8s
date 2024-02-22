@@ -1,7 +1,7 @@
-package com.javatechie.crud.controller;
+package com.sriniit.crud.controller;
 
-import com.javatechie.crud.entity.Order;
-import com.javatechie.crud.service.OrderService;
+import com.sriniit.crud.entity.Order;
+import com.sriniit.crud.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
